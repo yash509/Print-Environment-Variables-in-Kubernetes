@@ -51,7 +51,7 @@ spec:
         - name: COMPANY
           value: xFusionCorp
         - name: GROUP
-          value: group
+          value: Datacenter
       resources:
         limits:
           memory: 500Mi
